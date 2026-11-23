@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+GAMBELL",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+GAMBELL",
+  "title": "Federal Register - AK NATIVE VILLAGE OF GAMBELL",
+  "fetched_at": "2026-11-23T16:15:18.658846Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 232440,
+  "sha256": "ecb492f43818698fdf85ebf03d2dfeff746b378cc72b89affa28afe0796552ca",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
